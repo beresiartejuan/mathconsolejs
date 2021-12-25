@@ -1,4 +1,4 @@
-# mathconsolejs
+# Mathconsolejs
 Herramienta para el desarrollo de problemas matemáticos
 ## Descarga
 Descarga por medio de git:
